@@ -1,0 +1,10 @@
+{
+    "logging": {
+        "level": "INFO",
+        "filename": "main.log"
+    },
+    "imdb": {
+        "url": "https://www.imdb.com/chart/top",
+        "table_selector": "tbody.lister-list"
+    }
+}
